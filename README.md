@@ -1,1 +1,8 @@
-# first-demo->this is my first repository
+# first-demo
+this is my first repository
+
+ # Teacher
+ Shradha khapra
+
+ # Student 
+ Lovejot singh
